@@ -1,1 +1,1 @@
-# snake_game
+A well known game made as a project during 1st semester of my studies. The main goal was to practice programming in C. Contol via WASD buttons, highscores are kept, color and speed of the snake can be changed. A sample gameplay was recorded and uploaded in gameplay.mkv file. Enjoy playing!
